@@ -1,7 +1,7 @@
 
 # ⚛️NLW#5 - Trilha React Native com Expo :rocket:
 
-<img src="https://img.shields.io/static/v1?label=expo&message=framework&color=blue&style=plastic&logo=EXPO"/> [![GitHub license](https://img.shields.io/github/license/Asoaresdev/NLW-trilha_React?color=blue&style=plastic)](https://github.com/Asoaresdev/NLW-trilha_React)
+<img src="https://img.shields.io/static/v1?label=expo&message=framework&color=blue&style=plastic&logo=EXPO"/> 
 
 #### Status do Projeto: Em desenvolvimento :warning:
 
