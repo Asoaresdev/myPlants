@@ -10,7 +10,7 @@
 Objetivo da aplicação, criada durante o NLW#5, é um gerenciador de cuidados ás plantas, ajudando a lembrar a rega de suas plantas.
 
 
-<img src="" width="500">
+<!-- <img src="" width="500"> -->
 
 ### Como foi uma jornada de aprendizado, irei resumir o dia-a-dia
 
